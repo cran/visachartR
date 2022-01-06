@@ -1,6 +1,6 @@
 Package: visachartR
-Version: 1.1.1
-Date: 2021-10-27
+Version: 2.0.0
+Date: 2022-01-05
 Title: Wrapper for 'Visa Chart Components'
 Description: Provides a set of wrapper functions for 'Visa Chart Components'.
   'Visa Chart Components' <https://github.com/visa/visa-chart-components> is an accessibility focused,
@@ -36,7 +36,7 @@ RoxygenNote: 7.1.1
 Imports: htmlwidgets
 Suggests: dplyr, knitr, rmarkdown, tibble, tidyverse
 NeedsCompilation: no
-Packaged: 2021-11-02 04:34:13 UTC; demartsc
+Packaged: 2022-01-06 01:54:27 UTC; demartsc
 Author: Christopher DeMartini [aut, cre],
   Jaime Tanner [aut],
   Frank Elavsky [aut],
@@ -45,4 +45,4 @@ Author: Christopher DeMartini [aut, cre],
   Visa, Inc. [cph]
 Maintainer: Christopher DeMartini <chris.demartini.npm@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-11-02 06:00:02 UTC
+Date/Publication: 2022-01-06 03:30:02 UTC
