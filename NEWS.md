@@ -3,7 +3,11 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://www.conventionalcommits.org/) for commit guidelines.
 
-# [2.1.0](https://github.com/visa/visa-chart-components/compare/@visa/charts@6.0.1...@visa/charts@6.1.0) (2022-03-29)
+# [2.1.1](https://github.com/visa/visa-chart-components/compare/@visa/charts@6.1.0...@visa/charts@6.1.1) (2022-06-27)
+
+**Note:** Version bump only for package @visa/charts
+
+## [2.1.0](https://github.com/visa/visa-chart-components/compare/@visa/charts@6.0.1...@visa/charts@6.1.0) (2022-03-29)
 
 ### Features
 
@@ -42,4 +46,4 @@ See [Conventional Commits](https://www.conventionalcommits.org/) for commit guid
 
 ## 1.0.0 (2021-03-19)
 
-**Note:** Initial release of visachartR package, see the [@visa/charts changelog](../charts/CHANGELOG.md 'Changelog') for additional details pre-dating this package.
+**Note:** Initial release of visachartR package, see the [@visa/charts changelog](https://github.com/visa/visa-chart-components/blob/main/packages/charts/CHANGELOG.md 'Changelog') for additional details pre-dating this package.
