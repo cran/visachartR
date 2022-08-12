@@ -1,7 +1,7 @@
-0cf9ca7f36a4522efe0ddfaa17fbb29f *DESCRIPTION
+044dd77fb29ce858fda662b3d7636a5f *DESCRIPTION
 d44b9bc2ce8268f48c7ff05bee1a956e *LICENSE
 5a51e18253b1fc11442e95d921205105 *NAMESPACE
-5950677cdd9fca1bf0a282d09b213495 *NEWS.md
+dcb4fd04c17cac3e9a23346d25339795 *NEWS.md
 a719db89ca991eaf856c68e63d60a61b *R/alluvial_diagram.R
 bbdaa6c8a58f2d2c153bf8122a22193d *R/bar_chart.R
 7a820596b40d8565a94be348e57e8fd7 *R/circle_packing.R
@@ -87,9 +87,9 @@ f135b57853bee679a492429427262aa9 *inst/htmlwidgets/lib/visa-chart-components/p-d
 d5024cbb5662aa0d3ec2268810233ff8 *inst/htmlwidgets/lib/visa-chart-components/p-f54e8bed.system.js
 d8f34d05cb8d474f501c43e75a94268a *inst/htmlwidgets/lib/visa-chart-components/p-fb379216.system.entry.js
 89b6c7c41aa69d62ff41553c2ee1d4e5 *inst/htmlwidgets/visaChart.js
-cc00d9e45c0b4583152e887575331c4a *inst/htmlwidgets/visaChart.yaml
+e649b48edca92992ac2dd7463c5b549f *inst/htmlwidgets/visaChart.yaml
 3c5d7537da109678cd3a324558aa439c *inst/htmlwidgets/visaNodeLinkChart.js
-cc00d9e45c0b4583152e887575331c4a *inst/htmlwidgets/visaNodeLinkChart.yaml
+e649b48edca92992ac2dd7463c5b549f *inst/htmlwidgets/visaNodeLinkChart.yaml
 0fad28b7b8e80014d8d031bfc2fc2cb1 *man/alluvial_diagram.Rd
 9e1baa04281ae4e25851e1a5b4859d7e *man/bar_chart.Rd
 8f375de892ddbc7ea7c53ddae3362078 *man/circle_packing.Rd
