@@ -1,5 +1,5 @@
 # /**
-# * Copyright (c) 2021 Visa, Inc.
+# * Copyright (c) 2021, 2023 Visa, Inc.
 # *
 # * This source code is licensed under the MIT license
 # * https://github.com/visa/visa-chart-components/blob/master/LICENSE
@@ -32,7 +32,7 @@
 #'   circle_packing("node", "parent", "size",
 #'                  accessibility = list(hideTextures = TRUE,
 #'                                       hideDataTableButton = TRUE))
-#' library(tidyverse)
+#' library(dplyr)
 #' data.frame(Orange) %>%
 #'   mutate(age = as.character(age)) %>%
 #'   bind_rows(data.frame(Tree = c(rep("Trees", 5), NA),

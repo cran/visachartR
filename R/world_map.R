@@ -1,5 +1,5 @@
 # /**
-# * Copyright (c) 2021 Visa, Inc.
+# * Copyright (c) 2021, 2023 Visa, Inc.
 # *
 # * This source code is licensed under the MIT license
 # * https://github.com/visa/visa-chart-components/blob/master/LICENSE
@@ -30,7 +30,7 @@
 #' @return a visaChart htmlwidget object for plotting a world map
 #' @export
 #' @examples
-#' library(tidyverse)
+#' library(dplyr)
 #' quakes %>%
 #'  sample_n(100) %>%
 #'  tibble::rowid_to_column() %>%

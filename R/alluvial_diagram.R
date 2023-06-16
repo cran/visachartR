@@ -1,5 +1,5 @@
 # /**
-# * Copyright (c) 2021 Visa, Inc.
+# * Copyright (c) 2021, 2023 Visa, Inc.
 # *
 # * This source code is licensed under the MIT license
 # * https://github.com/visa/visa-chart-components/blob/master/LICENSE
@@ -28,7 +28,7 @@
 #' @return a visaNodeLinkChart htmlwidget object for plotting an alluvial diagram
 #' @export
 #' @examples
-#' library(tidyverse)
+#' library(dplyr)
 #' data.frame(HairEyeColor) %>%
 #'   filter(Sex=="Female") %>%
 #'   mutate(newHair = paste(Hair,"-Hair")) %>%

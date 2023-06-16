@@ -1,5 +1,5 @@
 # /**
-# * Copyright (c) 2021 Visa, Inc.
+# * Copyright (c) 2021, 2023 Visa, Inc.
 # *
 # * This source code is licensed under the MIT license
 # * https://github.com/visa/visa-chart-components/blob/master/LICENSE
@@ -26,7 +26,7 @@
 #' @return a visaChart htmlwidget object for plotting a dumbbell plot
 #' @export
 #' @examples
-#' library(tidyverse)
+#' library(dplyr)
 #' data.frame(UCBAdmissions) %>%
 #'   filter(Admit == "Rejected") %>%
 #'   dumbbell_plot("Dept","Freq","Gender")
